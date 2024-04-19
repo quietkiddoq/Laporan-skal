@@ -1,0 +1,51 @@
+*{
+    font-family: arial;
+    width: 100%;
+}
+#a{
+    background-color:black;
+    color:white;
+    padding: 20px;
+    font-size: 50px;
+}
+
+#k{
+    background-color: black;
+    padding: 20px;
+    color: white;
+}
+#q{
+    background-color:black;
+    color:white;
+    padding: 20px;
+    font-size: 50px;
+}
+ul{
+    color: blueviolet;
+    
+}
+#bb{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 50px;
+}
+
+
+div.block{
+    border: 2px solid;
+    font-size: 25px;
+}
+.block1{
+    display: block;
+    background-color:rgb(231, 231, 231);
+    border: 1px solid;
+}
+
+.block1:hover{
+    background-color:  rgb(197, 197, 197);
+}
+a{
+    text-decoration: none;
+    color: black;
+}

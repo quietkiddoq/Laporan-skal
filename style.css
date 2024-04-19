@@ -1,0 +1,33 @@
+*{
+    font-family: arial;
+}
+
+.c{
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+}
+#l{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    font-family:Georgia;
+}
+div.block{
+    border: 2px solid;
+    font-size: 25px;
+}
+.block1{
+    display: block;
+    background-color:rgb(231, 231, 231);
+    border: 1px solid;
+}
+
+.block1:hover{
+    background-color:  rgb(197, 197, 197);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
